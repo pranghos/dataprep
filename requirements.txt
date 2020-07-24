@@ -1,0 +1,13 @@
+ibm-watson>=4.5.0
+ibm-cloud-sdk-core==1.5.1
+aiohttp>=3.4
+squarify>=0.3.0
+validators>=0.15.0
+pdfplumber
+selenium
+pytesseract
+pdf2image
+configparser
+validators>=0.15.0
+regex>=2020.6.8
+openpyxl>=3.0.4
